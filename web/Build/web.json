@@ -1,7 +1,7 @@
 {
-"companyName": "DefaultCompany",
-"productName": "taosugo",
-"productVersion": "0.1",
+"companyName": "nnskn",
+"productName": "game",
+"productVersion": "1.1",
 "dataUrl": "web.data.unityweb",
 "wasmCodeUrl": "web.wasm.code.unityweb",
 "wasmFrameworkUrl": "web.wasm.framework.unityweb",
